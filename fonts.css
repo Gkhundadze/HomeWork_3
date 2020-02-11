@@ -2,3 +2,7 @@
 	font-family: ninomtavrulibold;
 	src: url(bpg_nino_mtavruli_bold.ttf);
 }
+@font-face{
+	font-family: ninomtavrulinormal;
+	src:url(bpg_nino_mtavruli_normal.otf);
+}

@@ -2,15 +2,39 @@ nav{
 	display: inline-block;
 }
 ul{
-	
+	margin-bottom: 0;
 }
 li{
 	font-family: ninomtavrulibold;
 	list-style-type: none;
 	display: inline-block;
+	color: #3D58A6;
+}
+.logo{
+	margin-top: 28px;
+	margin-left: 18px;
 }
 .nav-li{
 	text-decoration: none;
-	margin: auto 9px auto 9px;
-
+	margin: auto 9px 0 9px;
 }
+.day{
+	font-family: ninomtavrulinormal;
+	font-size: 48px;
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 18px;
+	margin-bottom: 8px;
+	color: white;
+	background-color: #3D58A6;
+}
+.month{
+	font-family: ninomtavrulinormal;
+	color: #3D58A6;
+	margin-left: 18px;
+	font-size: 22px;
+}
+.title{
+	font-family: ninomtavrulinormal;
+	font-size: 20px;
+
