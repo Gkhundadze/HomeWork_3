@@ -1,0 +1,16 @@
+nav{
+	display: inline-block;
+}
+ul{
+	
+}
+li{
+	font-family: ninomtavrulibold;
+	list-style-type: none;
+	display: inline-block;
+}
+.nav-li{
+	text-decoration: none;
+	margin: auto 9px auto 9px;
+
+}
